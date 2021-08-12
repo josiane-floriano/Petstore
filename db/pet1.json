@@ -1,0 +1,18 @@
+{
+  "id": 0,
+  "category": {
+    "id": 1,
+    "name": "cachorro"
+  },
+  "name": "cachorrinhodamassa",
+  "photoUrls": [
+    "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tudocelular.com%2Fmercado%2Fnoticias%2Fn161194%2Fcampanha-vira-lata-caramelo-nota-200.html&psig=AOvVaw2m2wN4V6ZW2Db6DvxWTJE0&ust=1628815068340000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiUz42fqvICFQAAAAAdAAAAABAD"
+  ],
+  "tags": [ "Caramelo",
+    {
+      "id": 2007,
+      "name": "sta"
+    }
+  ],
+  "status": "available"
+}
